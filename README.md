@@ -1,4 +1,4 @@
-=======
+
 # Cloud-Based Calendar Management System (Cal.com Deployment)
 
 ## Project Overview
