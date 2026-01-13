@@ -1,0 +1,7 @@
+cd ip
+ssh -i cal.pem ubuntu@13.232.175.186
+script -a terminal-session.log
+Start-Transcript -Path "C:\Users\91703\IP\terminal-session.log" -Append
+doskey /history > C:\Users\91703\IP\commands.txt
+powershell Compress-Archive -Path "C:\Users\91703\IP\terminal-session.log" -DestinationPath "C:\Users\91703\IP\calcom-session.zip"
+doskey /history > C:\Users\91703\IP\commands.txt
