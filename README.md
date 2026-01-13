@@ -117,10 +117,6 @@ Cloud Computing Intern
 ## Disclaimer
 This project was developed as part of an internship assignment for educational purposes. All sensitive credentials have been removed or replaced with placeholders.
 
->>>>>>> 309d5c286b72b7790c58f04cb34dc709024539b4
-
-
-<<<<<<< HEAD
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/calcom/cal.com">
